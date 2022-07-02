@@ -32,6 +32,8 @@ dev分支推送命令
 ```bash
 $ git add .
 $ git commit -m "描述"
-$ git push orgin dev
+$ git push origin dev
+#可以先查看远程分支
+$ git branch -rv
 ```
 
