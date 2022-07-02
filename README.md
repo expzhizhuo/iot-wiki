@@ -13,6 +13,7 @@ SunHat文库是一个面向物联网安全研究和逆向分析的知识库，�
 
 ```shell
 $ git clone https://github.com/zhizhuoshuma/iot-wiki.git
+$ npm install vuepress-theme-antdocs -g #全局安装vuepress主题
 $ npm install
 $ npm run dev # dev开发版
 $ npm run build # 编译完成的HTML位于当前项目的docs/.vuepress/dist/*
@@ -21,3 +22,16 @@ $ npm run build # 编译完成的HTML位于当前项目的docs/.vuepress/dist/*
 ## 0x04.线上地址
 
 SunHat-Wiki-Book的线上部署地址为：`https://wiki.iot-wiki.cn/`
+
+## 0x05.贡献
+
+如果你也想成为我们的一员，那么你可以通过git拉去到本地进行dev开发，确保所新增的文档是正常ok的，在通过git命令推送到dev分支下面，我们团队成员会进行分支合并的，有问题可以在lessus下面留言。
+
+dev分支推送命令
+
+```bash
+$ git add .
+$ git commit -m "描述"
+$ git push orgin dev
+```
+
