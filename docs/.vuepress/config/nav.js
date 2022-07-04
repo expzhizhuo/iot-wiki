@@ -2,7 +2,7 @@
  * @Author: zhizhuo 
  * @Date: 2022-07-01 18:48:00 
  * @Last Modified by: zhizhuo
- * @Last Modified time: 2022-07-01 20:35:10
+ * @Last Modified time: 2022-07-04 08:46:55
  */
 
 module.exports = [
@@ -71,6 +71,15 @@ module.exports = [
                 text: "工具",
                 link: "/develop/tools/",
             }
+        ]
+    },
+    {
+        text: '学习笔记',
+        items: [
+            {
+                text: "物联网学习笔记",
+                link: "/notes/物联网/",
+            },
         ]
     },
     {
