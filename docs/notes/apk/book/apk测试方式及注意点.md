@@ -13,13 +13,13 @@ title: apk测试方式及注意点
 1、信息资产<br />app文件、程序进程、内存数据、前端界面、本地存储、网络链路、交互接口、云端接口等<br />2、安全测试框架<br />程序代码安全测试：运行环境测试、防反编译测试、防篡改测试、防调试测试、防注入测试<br />本地数据安全测试：数据创建测试、数据存储测试、数据处理测试、数据共享测试、数据备份测试、数据销毁测试<br />服务交互安全测试：进程间交互测试、屏幕交互测试、web view测试、接口端口测试<br />网络传输安全测试：安全传输层测试、数据加密测试、中间人攻击测试<br />鉴权认证安全测试：注册过程测试、登录过程测试、会话过程测试、登出过程测试、注销过程测试
 
 
-APP信息资产与安全测试的对应关系<br />![](https://cdn.nlark.com/yuque/0/2022/jpeg/26692716/1658022206822-0cba57f7-3f6a-4552-922e-993a14c25bf7.jpeg)
+APP信息资产与安全测试的对应关系<br />![](http://img.zhizhuoshuma.cn/images/202207171230206.jpeg)
 
 <a name="AfLVm"></a>
 ### 三、程序代码测试
 <a name="eYeZ5"></a>
 #### 五个纬度进行安全测试
-![](https://cdn.nlark.com/yuque/0/2022/jpeg/26692716/1658022534296-cc7effd9-64b6-4ec3-9c75-1a7f07cd2ca8.jpeg)
+![](http://img.zhizhuoshuma.cn/images/202207171230107.jpeg)
 
 <a name="ZuZKN"></a>
 #### 安全测试要求：
@@ -64,7 +64,7 @@ APP信息资产与安全测试的对应关系<br />![](https://cdn.nlark.com/yuq
 
 <a name="URu9a"></a>
 ### 四、服务交互安全测试
-app服务服务狡交互安全测试<br />![](https://cdn.nlark.com/yuque/0/2022/jpeg/26692716/1658027043826-4b267505-3e32-4c1d-81ae-d71dc28166da.jpeg)
+app服务服务狡交互安全测试<br />![](http://img.zhizhuoshuma.cn/images/202207171230118.jpeg)
 
 <a name="f1HRR"></a>
 #### 安全测试要求
