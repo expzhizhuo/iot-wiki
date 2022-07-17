@@ -2,7 +2,7 @@
  * @Author: zhizhuo 
  * @Date: 2022-07-04 08:39:53 
  * @Last Modified by: zhizhuo
- * @Last Modified time: 2022-07-17 11:52:19
+ * @Last Modified time: 2022-07-17 12:08:59
  */
 
 module.exports = [
@@ -12,6 +12,7 @@ module.exports = [
 		collapsable: true,
 		children: [
 			"/notes/apk/book/apk基础",
+			"/notes/apk/book/apk测试方式及注意点",
 		]
 	}
 ];
