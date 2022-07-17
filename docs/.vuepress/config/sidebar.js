@@ -2,7 +2,7 @@
  * @Author: zhizhuo 
  * @Date: 2022-07-01 19:18:15 
  * @Last Modified by: zhizhuo
- * @Last Modified time: 2022-07-04 08:47:03
+ * @Last Modified time: 2022-07-17 11:48:23
  */
 
 module.exports = {
@@ -19,5 +19,6 @@ module.exports = {
     '/develop/front/': require('../../develop/front/sidebar_contents'),
     '/develop/after/': require('../../develop/after/sidebar_contents'),
     '/develop/tools/': require('../../develop/tools/sidebar_contents'),
-    '/notes/物联网/': require('../../notes/物联网/sidebar_contents'),
+    '/notes/iot/': require('../../notes/iot/sidebar_contents'),
+    '/notes/apk/': require('../../notes/apk/sidebar_contents'),
 };

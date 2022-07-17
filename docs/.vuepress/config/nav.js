@@ -2,7 +2,7 @@
  * @Author: zhizhuo 
  * @Date: 2022-07-01 18:48:00 
  * @Last Modified by: zhizhuo
- * @Last Modified time: 2022-07-04 08:46:55
+ * @Last Modified time: 2022-07-17 11:43:28
  */
 
 module.exports = [
@@ -78,7 +78,11 @@ module.exports = [
         items: [
             {
                 text: "物联网学习笔记",
-                link: "/notes/物联网/",
+                link: "/notes/iot/",
+            },
+            {
+                text: "APK学习笔记",
+                link: "/notes/apk/",
             },
         ]
     },
